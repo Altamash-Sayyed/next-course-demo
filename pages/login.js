@@ -25,7 +25,7 @@ export default function Login() {
         <div className='flex  justify-between sm:bg-white h-screen bg-blue-700'>
             <div className='hidden sm:block w-1/2' >
                 <div className='w-5/6  h-screen flex flex-col justify-center  bg-blue-700'>
-                    <p className='text-white mt-14 ml-12 text-3xl'>WELCOME ON TUTORIAL'S WEB</p>
+                    <p className='text-white mt-14 ml-12 text-3xl'>WELCOME ON TUTORIAL WEB</p>
                     <img className='h-96 m-4 ml-16 w-96' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uqFXXC3Zx-2fCX1WJO7EKHZ1mYqlzjucfQ&usqp=CAU" alt="" />
                 </div>
             </div>

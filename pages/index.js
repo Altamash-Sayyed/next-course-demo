@@ -97,7 +97,7 @@ export default function Home(props) {
         <div className='w-full p-1 flex justify-between bg-blue-700'>
           <ul >
             <li className='m-1'>
-              <Image src={images} height={60} width={60} />
+              <Image src={images} alt='' height={60} width={60} />
             </li>  </ul>
           <ul className='flex text-white text-xl'>
             <li className='mx-2 mt-4'>
@@ -127,7 +127,7 @@ export default function Home(props) {
           }
         </div>
         <footer className=' flex justify-center text-3xl text-white  w-full h-36 bg-blue-700'>
-          <h1 className='mt-12'>Thank's For Visiting</h1 >
+          <h1 className='mt-12'>Thanks For Visiting</h1 >
         </footer>
       </>
 
