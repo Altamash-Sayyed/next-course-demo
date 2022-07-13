@@ -93,7 +93,6 @@ export default function Home(props) {
       </center>
       :
 
-
       <>
         <div className='w-full p-1 flex justify-between bg-blue-700'>
           <ul >
